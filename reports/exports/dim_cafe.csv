@@ -1,0 +1,9 @@
+cafe_id,name,city,country,latitude,longitude,capacity,features
+1,Pixel Palace,Dublin,Ireland,53.3498,-6.2603,40,"Streaming, LAN"
+2,LevelUp Lounge,Dublin,Ireland,53.3401,-6.2611,30,"LAN, Snack Bar"
+3,GameZone Cork,Cork,Ireland,51.8985,-8.4756,25,Streaming
+4,EsportsHub Galway,Galway,Ireland,53.2743,-9.0514,20,Tournaments
+5,Arena Limerick,Limerick,Ireland,52.668,-8.6305,35,"LAN, Streaming"
+6,Nexus Gaming,Belfast,Ireland,54.5973,-5.9301,50,"VR, Streaming"
+7,RetroPlay Waterford,Waterford,Ireland,52.2593,-7.1101,15,LAN
+8,ProGamer Kilkenny,Kilkenny,Ireland,52.6541,-7.2448,20,"Tournaments, LAN"

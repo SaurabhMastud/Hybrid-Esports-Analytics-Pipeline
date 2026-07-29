@@ -1,0 +1,11 @@
+cafe_id,name,city,country,latitude,longitude,capacity_seats,has_streaming_setup,has_tournament_area,has_snack_bar,internet_speed_mbps,monthly_footfall_est,target_segment
+IE001,Pixel Hub Gaming Lounge,Dublin,Ireland,53.3498,-6.2603,40,TRUE,TRUE,TRUE,1000,800,young_adults
+IE002,Level Up Gaming Cafe,Dublin,Ireland,53.3382,-6.2591,30,FALSE,TRUE,FALSE,500,500,casual_gamers
+IE003,GG Gaming Centre,Cork,Ireland,51.8985,-8.4756,25,FALSE,FALSE,TRUE,300,400,casual_gamers
+IE004,Respawn Gaming Lounge,Galway,Ireland,53.2743,-9.0514,20,FALSE,FALSE,FALSE,200,300,students
+IE005,The Arena Gaming Club,Limerick,Ireland,52.6638,-8.6267,35,TRUE,TRUE,TRUE,800,600,young_adults
+IE006,NoobMasters Cafe,Waterford,Ireland,52.2593,-7.1101,15,FALSE,FALSE,FALSE,150,200,casual_gamers
+IE007,Rift Gaming Bar,Dublin,Ireland,53.3475,-6.2603,50,TRUE,TRUE,TRUE,1200,1000,young_adults_esports
+IE008,Checkpoint Gaming,Belfast,Northern Ireland,54.5973,-5.9301,30,FALSE,TRUE,FALSE,400,550,students
+IE009,Pro Gaming Suite,Dublin,Ireland,53.3412,-6.2675,45,TRUE,FALSE,TRUE,1000,700,esports_competitive
+IE010,Byte Gaming Lounge,Kilkenny,Ireland,52.6541,-7.2448,18,FALSE,FALSE,FALSE,100,200,casual_gamers

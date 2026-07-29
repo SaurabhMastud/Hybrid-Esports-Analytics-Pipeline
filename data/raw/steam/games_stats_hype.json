@@ -1,0 +1,37 @@
+[
+  {
+    "game_name": "Counter-Strike",
+    "appid": 730,
+    "followers": 1900000,
+    "follower_growth": 500,
+    "pre_release_flag": false
+  },
+  {
+    "game_name": "Apex Legends",
+    "appid": 1172470,
+    "followers": 1200000,
+    "follower_growth": 350,
+    "pre_release_flag": false
+  },
+  {
+    "game_name": "Fortnite",
+    "appid": 1172620,
+    "followers": 2100000,
+    "follower_growth": 1100,
+    "pre_release_flag": true
+  },
+  {
+    "game_name": "Dota 2",
+    "appid": 570,
+    "followers": 3200000,
+    "follower_growth": 700,
+    "pre_release_flag": false
+  },
+  {
+    "game_name": "Tom Clancy's Rainbow Six Siege",
+    "appid": 359550,
+    "followers": 1500000,
+    "follower_growth": 420,
+    "pre_release_flag": false
+  }
+]

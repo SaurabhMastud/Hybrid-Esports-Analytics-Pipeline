@@ -1,0 +1,41 @@
+{
+  "project_name": "hybrid_streaming_play_hubs",
+  "local_data_root": "./data",
+  "local_staging": {
+    "steam": "./data/local_staging/steam",
+    "twitch": "./data/local_staging/twitch",
+    "games_stats": "./data/local_staging/games_stats",
+    "cafes": "./data/local_staging/cafes"
+  },
+  "processed_exports": {
+    "csv": "./data/processed_exports/csv",
+    "parquet": "./data/processed_exports/parquet",
+    "temp": "./data/processed_exports/temp"
+  },
+  "reference_data": {
+    "dictionaries": "./data/reference/dictionaries",
+    "mappings": "./data/reference/mappings",
+    "literature_notes": "./data/reference/literature_notes"
+  },
+  "outputs": {
+    "figures": "./outputs/figures",
+    "tables": "./outputs/tables",
+    "dashboards": "./outputs/dashboards",
+    "presentation_assets": "./outputs/presentation_assets",
+    "logs": "./outputs/logs"
+  },
+  "database": {
+    "type": "sqlite",
+    "path": "./sql/diss_ca2.db"
+  },
+   "target_games": [
+    "Counter-Strike",
+    "Apex Legends",
+    "Fortnite",
+    "Dota 2",
+    "Tom Clancy's Rainbow Six Siege"
+  ],
+  "twitch_api": {
+    "pages_per_game": 5
+  }
+}

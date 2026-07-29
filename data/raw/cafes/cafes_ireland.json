@@ -1,0 +1,82 @@
+[
+  {
+    "cafe_id": 1,
+    "name": "Pixel Palace",
+    "city": "Dublin",
+    "country": "Ireland",
+    "latitude": 53.3498,
+    "longitude": -6.2603,
+    "capacity": 40,
+    "features": "Streaming, LAN"
+  },
+  {
+    "cafe_id": 2,
+    "name": "LevelUp Lounge",
+    "city": "Dublin",
+    "country": "Ireland",
+    "latitude": 53.3401,
+    "longitude": -6.2611,
+    "capacity": 30,
+    "features": "LAN, Snack Bar"
+  },
+  {
+    "cafe_id": 3,
+    "name": "GameZone Cork",
+    "city": "Cork",
+    "country": "Ireland",
+    "latitude": 51.8985,
+    "longitude": -8.4756,
+    "capacity": 25,
+    "features": "Streaming"
+  },
+  {
+    "cafe_id": 4,
+    "name": "EsportsHub Galway",
+    "city": "Galway",
+    "country": "Ireland",
+    "latitude": 53.2743,
+    "longitude": -9.0514,
+    "capacity": 20,
+    "features": "Tournaments"
+  },
+  {
+    "cafe_id": 5,
+    "name": "Arena Limerick",
+    "city": "Limerick",
+    "country": "Ireland",
+    "latitude": 52.668,
+    "longitude": -8.6305,
+    "capacity": 35,
+    "features": "LAN, Streaming"
+  },
+  {
+    "cafe_id": 6,
+    "name": "Nexus Gaming",
+    "city": "Belfast",
+    "country": "Ireland",
+    "latitude": 54.5973,
+    "longitude": -5.9301,
+    "capacity": 50,
+    "features": "VR, Streaming"
+  },
+  {
+    "cafe_id": 7,
+    "name": "RetroPlay Waterford",
+    "city": "Waterford",
+    "country": "Ireland",
+    "latitude": 52.2593,
+    "longitude": -7.1101,
+    "capacity": 15,
+    "features": "LAN"
+  },
+  {
+    "cafe_id": 8,
+    "name": "ProGamer Kilkenny",
+    "city": "Kilkenny",
+    "country": "Ireland",
+    "latitude": 52.6541,
+    "longitude": -7.2448,
+    "capacity": 20,
+    "features": "Tournaments, LAN"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "account_name": "your_storage_account_name",
+  "containers": {
+    "raw": {
+      "steam": "raw/steam",
+      "twitch": "raw/twitch",
+      "games_stats": "raw/games_stats",
+      "cafes": "raw/cafes"
+    },
+    "processed": {
+      "streaming_metrics": "processed/streaming_metrics",
+      "review_engagement": "processed/review_engagement",
+      "hype_metrics": "processed/hype_metrics",
+      "cafe_opportunity": "processed/cafe_opportunity"
+    }
+  }
+}

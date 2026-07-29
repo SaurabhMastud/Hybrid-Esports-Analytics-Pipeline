@@ -1,0 +1,6 @@
+appid,game_name,review_count,positive_count,avg_playtime,sentiment_score,review_velocity,avg_playtime_hrs
+570,Dota 2,200,140,144987.68,0.7,28.6,2416.5
+730,Counter-Strike,200,145,29648.835,0.725,28.6,494.1
+359550,Tom Clancy's Rainbow Six Siege,200,137,14398.865,0.685,28.6,240.0
+1172470,Apex Legends,200,119,17538.375,0.595,28.6,292.3
+1172620,Fortnite,200,132,7050.335,0.66,28.6,117.5
